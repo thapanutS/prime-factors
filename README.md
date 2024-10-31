@@ -1,5 +1,5 @@
 ## Getting started
-npm install
+npm install or yarn install
 
 ## Run project
 node index.js 
