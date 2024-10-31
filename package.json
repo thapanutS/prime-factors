@@ -1,0 +1,20 @@
+{
+  "name": "prime-factors-project",
+  "version": "1.0.0",
+  "description": "The Prime Factors project is designed to compute and display the prime factors of a given number. It serves as a useful tool for understanding number theory and the properties of prime numbers. This project can be used as a learning resource for students or anyone interested in mathematical concepts",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npx jest",
+    "build": "node index.js && npx jest"
+  },
+  "engines": {
+    "node": ">=18.0.0 <21.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
